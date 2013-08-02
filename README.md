@@ -1,0 +1,4 @@
+MyHomeworkProjects
+==================
+
+C# console project
